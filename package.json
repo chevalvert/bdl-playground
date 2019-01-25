@@ -1,6 +1,6 @@
 {
   "name": "bdl-playground",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Basic playground to test bdl hardware w/ HMR capability",
   "author": "Arnaud Juracek",
   "license": "MIT",
